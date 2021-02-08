@@ -3,4 +3,5 @@ This is the first version of my personal portfolio that contains all of my work 
 <br />
 
 ## NOTE
-There may be some missing videos on certain project pages.
+* There may be some missing videos on certain project pages.
+* Contact form does not work. 
